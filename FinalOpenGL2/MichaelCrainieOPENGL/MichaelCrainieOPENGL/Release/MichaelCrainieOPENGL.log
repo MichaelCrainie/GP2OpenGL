@@ -1,0 +1,17 @@
+﻿  stb_image.c
+  Audio.cpp
+  display.cpp
+  Game.cpp
+  main.cpp
+  Mesh.cpp
+C:\Users\micha\Desktop\FinalOpenGL2\MichaelCrainieOPENGL\MichaelCrainieOPENGL\Game.cpp(11,10): warning C4930:  'display mainDisplay(void)': prototyped function not called (was a variable definition intended?)
+  ObjectLoader.cpp
+C:\Users\micha\Desktop\FinalOpenGL2\MichaelCrainieOPENGL\MichaelCrainieOPENGL\Mesh.cpp(9,9): warning C4930:  'Sphere meshSphere(void)': prototyped function not called (was a variable definition intended?)
+  Shader.cpp
+  Texture.cpp
+C:\Users\micha\Desktop\FinalOpenGL2\MichaelCrainieOPENGL\MichaelCrainieOPENGL\ObjectLoader.cpp(378,13): warning C4244:  'return': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1041 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  MichaelCrainieOPENGL.vcxproj -> C:\Users\micha\Desktop\FinalOpenGL2\MichaelCrainieOPENGL\Release\MichaelCrainieOPENGL.exe
